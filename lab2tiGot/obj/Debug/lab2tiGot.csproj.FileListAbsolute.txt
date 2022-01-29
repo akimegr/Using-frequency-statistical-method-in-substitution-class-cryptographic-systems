@@ -1,0 +1,10 @@
+C:\ti\l1g\lab2tiGot\lab2tiGot\bin\Debug\lab2tiGot.exe.config
+C:\ti\l1g\lab2tiGot\lab2tiGot\bin\Debug\lab2tiGot.exe
+C:\ti\l1g\lab2tiGot\lab2tiGot\bin\Debug\lab2tiGot.pdb
+C:\ti\l1g\lab2tiGot\lab2tiGot\obj\Debug\lab2tiGot.csprojAssemblyReference.cache
+C:\ti\l1g\lab2tiGot\lab2tiGot\obj\Debug\lab2tiGot.Form1.resources
+C:\ti\l1g\lab2tiGot\lab2tiGot\obj\Debug\lab2tiGot.Properties.Resources.resources
+C:\ti\l1g\lab2tiGot\lab2tiGot\obj\Debug\lab2tiGot.csproj.GenerateResource.cache
+C:\ti\l1g\lab2tiGot\lab2tiGot\obj\Debug\lab2tiGot.csproj.CoreCompileInputs.cache
+C:\ti\l1g\lab2tiGot\lab2tiGot\obj\Debug\lab2tiGot.exe
+C:\ti\l1g\lab2tiGot\lab2tiGot\obj\Debug\lab2tiGot.pdb
