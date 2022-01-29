@@ -251,30 +251,6 @@ namespace lab2tiGot
             Replace();
         }
 
-        private void Frequency_txt_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void start_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void end_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void Cipher_txt_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void Plane_txt_TextChanged(object sender, EventArgs e)
-        {
-
-        }
     }
 
 }
